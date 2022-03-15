@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/mateu/Programowanie/Studia/MOwNiT/Laboratoria/1. Laboratorium/Zadania/Cpp/main.cpp
+iostream
+-
+iomanip
+-
+chrono
+-
+vector
+-
+cfloat
+-
+
