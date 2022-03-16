@@ -6,7 +6,7 @@
 
 using namespace std;
 
-typedef long double type;
+typedef double type;
 typedef unsigned int ui;
 
 struct Timer {
@@ -54,11 +54,11 @@ int main() {
     type x_k = calc_x_k(k, x_0, x_1);
     vector<type> all_to_x_k = calc_all_to_k(k, x_0, x_1);
 
-    // Display up to 16 digits
-    cout << setprecision(16);
+    // Display up to 25 digits
+    cout << setprecision(25);
 
     // Display only the x_k value
-    cout << "\nUsing type of size: " << sizeof x_0 << " bytes" << endl;
+    cout << "\nUsing type of size: " << sizeof x_k << " bytes" << endl;
     cout << "Min number: " << numeric_limits<type>::min() << endl;
     cout << "Max number: " << numeric_limits<type>::max() << endl;
     cout << "x_0 = " << x_0 << endl;
