@@ -1,5 +1,5 @@
 CC = g++
-C_OPT=-O3
+C_OPT=-O2
 C_FLAGS=-g -Wall -Wconversion -Werror $(C_OPT)
 
 FILE_NAME=main
