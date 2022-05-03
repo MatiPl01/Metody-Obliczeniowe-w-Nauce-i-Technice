@@ -21,3 +21,13 @@ To repozytorium zawiera rozwiązania zadań z przedmiotu **Metody Obliczeniowe w
 ### Interpolacja - Funkcje sklejane
 
 [https://github.com/MatiPl01/Metody-Obliczeniowe-w-Nauce-i-Technice/tree/master/4.%20Laboratorium](https://github.com/MatiPl01/Metody-Obliczeniowe-w-Nauce-i-Technice/tree/master/4.%20Laboratorium)
+
+## 5. Laboratorium
+### Aproksymacja średniokadratowa - przy pomocy wielomianów algebraicznych
+
+[https://github.com/MatiPl01/Metody-Obliczeniowe-w-Nauce-i-Technice/tree/master/5.%20Laboratorium](https://github.com/MatiPl01/Metody-Obliczeniowe-w-Nauce-i-Technice/tree/master/6.%20Laboratorium)
+
+## 6. Laboratorium
+### Aproksymacja średniokadratowa - przy pomocy wielomianów trygonometrycznych
+
+[https://github.com/MatiPl01/Metody-Obliczeniowe-w-Nauce-i-Technice/tree/master/6.%20Laboratorium](https://github.com/MatiPl01/Metody-Obliczeniowe-w-Nauce-i-Technice/tree/master/6.%20Laboratorium)
