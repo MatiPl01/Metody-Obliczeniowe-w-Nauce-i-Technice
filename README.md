@@ -23,11 +23,21 @@ To repozytorium zawiera rozwiązania zadań z przedmiotu **Metody Obliczeniowe w
 [https://github.com/MatiPl01/Metody-Obliczeniowe-w-Nauce-i-Technice/tree/master/4.%20Laboratorium](https://github.com/MatiPl01/Metody-Obliczeniowe-w-Nauce-i-Technice/tree/master/4.%20Laboratorium)
 
 ## 5. Laboratorium
-### Aproksymacja średniokadratowa - przy pomocy wielomianów algebraicznych
+### Aproksymacja średniokwadratowa - przy pomocy wielomianów algebraicznych
 
 [https://github.com/MatiPl01/Metody-Obliczeniowe-w-Nauce-i-Technice/tree/master/5.%20Laboratorium](https://github.com/MatiPl01/Metody-Obliczeniowe-w-Nauce-i-Technice/tree/master/6.%20Laboratorium)
 
 ## 6. Laboratorium
-### Aproksymacja średniokadratowa - przy pomocy wielomianów trygonometrycznych
+### Aproksymacja średniokwadratowa - przy pomocy wielomianów trygonometrycznych
 
 [https://github.com/MatiPl01/Metody-Obliczeniowe-w-Nauce-i-Technice/tree/master/6.%20Laboratorium](https://github.com/MatiPl01/Metody-Obliczeniowe-w-Nauce-i-Technice/tree/master/6.%20Laboratorium)
+
+## 7. Laboratorium
+### Podsumowanie przybliżania funkcji - interpolacja, aproksymacja
+
+[https://github.com/MatiPl01/Metody-Obliczeniowe-w-Nauce-i-Technice/tree/master/7.%20Laboratorium](https://github.com/MatiPl01/Metody-Obliczeniowe-w-Nauce-i-Technice/tree/master/7.%20Laboratorium)
+
+## 8. Laboratorium
+### Rozwiązywanie równań i układów równań nieliniowych 
+
+[https://github.com/MatiPl01/Metody-Obliczeniowe-w-Nauce-i-Technice/tree/master/8.%20Laboratorium](https://github.com/MatiPl01/Metody-Obliczeniowe-w-Nauce-i-Technice/tree/master/8.%20Laboratorium)
