@@ -41,3 +41,8 @@ To repozytorium zawiera rozwiązania zadań z przedmiotu **Metody Obliczeniowe w
 ### Rozwiązywanie równań i układów równań nieliniowych 
 
 [https://github.com/MatiPl01/Metody-Obliczeniowe-w-Nauce-i-Technice/tree/master/8.%20Laboratorium](https://github.com/MatiPl01/Metody-Obliczeniowe-w-Nauce-i-Technice/tree/master/8.%20Laboratorium)
+
+## 9. Laboratorium
+### Rozwiązywanie układów równań liniowych metodami bezpośrednimi
+
+[https://github.com/MatiPl01/Metody-Obliczeniowe-w-Nauce-i-Technice/tree/master/9.%20Laboratorium](https://github.com/MatiPl01/Metody-Obliczeniowe-w-Nauce-i-Technice/tree/master/9.%20Laboratorium)
