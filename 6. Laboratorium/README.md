@@ -1,7 +1,7 @@
 # Aproksymacja średniokwadratowa - z wykorzystaniem wielomianów trygonometrycznych
 ## Ćwiczenie 4b
 
-Dla funkcji <!-- $f(x)$ --> <img style="transform: translateY(0.1em); background: #0d1117;" src="..\svg\g6Dm8p6Lcx.svg"> zadanej w zadaniu dotyczącym interpolacji wyznaczyć jej wartości w <!-- $n$ --> <img style="transform: translateY(0.1em); background: #0d1117;" src="..\svg\2fzZmam4lV.svg"> 
+Dla funkcji <!-- $f(x)$ --> <img style="transform: translateY(0.1em);" src="..\svg\dark-mode\g6Dm8p6Lcx.svg"> zadanej w zadaniu dotyczącym interpolacji wyznaczyć jej wartości w <!-- $n$ --> <img style="transform: translateY(0.1em);" src="..\svg\dark-mode\2fzZmam4lV.svg"> 
 dyskretnych punktach. Następnie w oparciu o te punkty wyznaczyć przybliżenie funkcji 
 wykorzystując aproksymację średniokwadratową **wielomianami trygonometrycznymi**.
 
@@ -11,6 +11,6 @@ Graficznie zilustrować interesujące przypadki.
 
 ## Funkcja z zadania indywidualnego
 
-<!-- $f(x)=e^{-k\cdot sin(mx)}+k\cdot sin(mx) - 1$ --> <img style="transform: translateY(0.1em); background: #0d1117;" src="..\svg\y0AtuGGiA9.svg">
+<!-- $f(x)=e^{-k\cdot sin(mx)}+k\cdot sin(mx) - 1$ --> <img style="transform: translateY(0.1em);" src="..\svg\dark-mode\y0AtuGGiA9.svg">
 
-gdzie <!-- $k=2$ --> <img style="transform: translateY(0.1em); background: #0d1117;" src="..\svg\RyofpdR5HO.svg">, <!-- $m=2$ --> <img style="transform: translateY(0.1em); background: #0d1117;" src="..\svg\u3GNINVA2a.svg">, <!-- $x\in[-\pi,2\pi]$ --> <img style="transform: translateY(0.1em); background: #0d1117;" src="..\svg\hZqUPDs1Oz.svg">
+gdzie <!-- $k=2$ --> <img style="transform: translateY(0.1em);" src="..\svg\dark-mode\RyofpdR5HO.svg">, <!-- $m=2$ --> <img style="transform: translateY(0.1em);" src="..\svg\dark-mode\u3GNINVA2a.svg">, <!-- $x\in[-\pi,2\pi]$ --> <img style="transform: translateY(0.1em);" src="..\svg\dark-mode\hZqUPDs1Oz.svg">
