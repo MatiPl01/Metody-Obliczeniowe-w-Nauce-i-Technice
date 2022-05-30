@@ -10,11 +10,11 @@ Elementy macierzy <!-- $A$ --> <img style="transform: translateY(0.1em);" src=".
 <!-- $
 \begin{cases} 
     a_{i, i} = k \\ 
-    a_{i, j} = (-1)^j \frac{m}{j} & dla & j > 1 \\
+    a_{i, j} = (-1)^j \frac{m}{j} & dla & j > i \\
     a_{i, i-1} = \frac{m}{i} \\
     a_{i, j} = 0 & dla & j < i - 1 \\
 \end{cases}
-$ --> <img style="transform: translateY(0.1em);" src="..\svg\dark-mode\LVNnLEGM1m.svg#gh-dark-mode-only"><img style="transform: translateY(0.1em);" src="..\svg\light-mode\LVNnLEGM1m.svg#gh-light-mode-only">
+$ --> <img style="transform: translateY(0.1em);" src="..\svg\dark-mode\ygiEeivQcZ.svg#gh-dark-mode-only"><img style="transform: translateY(0.1em);" src="..\svg\light-mode\ygiEeivQcZ.svg#gh-light-mode-only">
 
 <!-- $k=11$ --> <img style="transform: translateY(0.1em);" src="..\svg\dark-mode\pG64Ilne99.svg#gh-dark-mode-only"><img style="transform: translateY(0.1em);" src="..\svg\light-mode\pG64Ilne99.svg#gh-light-mode-only">
 

@@ -50,6 +50,6 @@ To repozytorium zawiera rozwiązania zadań z przedmiotu **Metody Obliczeniowe w
 ## 10. Laboratorium
 ### Rozwiązywanie układów równań liniowych metodami iteracyjnymi
 
-⚙️ Na razie jest tylko treść, rozwiązanie pojawi się w najbliższej przyszłości...
+⚙️ In progress...
 
 [Przejdź do laboratorium](https://github.com/MatiPl01/Metody-Obliczeniowe-w-Nauce-i-Technice/tree/master/10.%20Laboratorium)
